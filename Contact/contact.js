@@ -1,4 +1,4 @@
-console.log('ciao bella'); 
+console.log('Hello CJ'); 
 
 let config = {
     apiKey: "AIzaSyDsHvptkXsLIDK0SO_KFoSopxn_NlfXC_U",
